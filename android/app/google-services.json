@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319288794259",
+    "project_id": "familydata-76fc6",
+    "storage_bucket": "familydata-76fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319288794259:android:b2432e27ed6927f56d0166",
+        "android_client_info": {
+          "package_name": "com.example.family_data"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdbMfC2mMPkSpTToN723Q7-UTZr2Jb6tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
